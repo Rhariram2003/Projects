@@ -40,14 +40,6 @@ The emotion classification model is trained using the Adam optimizer with catego
 - Adam dynamically adjusts the learning rate for each parameter based on the past gradients and squared gradients, allowing for faster convergence and better generalization.
 - The use of Adam optimizer facilitates efficient training of the emotion classification model by automatically adjusting the learning rates for optimal performance.
 
-R Hariharan
-	
-10:48 (1 minute ago)
-	
-to me
-Certainly! Here's a description of the GRU model used in your project:
-
----
 
 ## Model: GRU (Gated Recurrent Unit)
 
